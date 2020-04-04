@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class IranSystemCharTable {
-    Map<Integer, FarsiLetter> charTable = new HashMap<>();
+    private Map<Integer, FarsiLetter> charTable = new HashMap<>();
 
     public IranSystemCharTable() {
         charTable.put(140, FarsiLetter.ALF_MAD);

@@ -11,7 +11,7 @@ public class FarsiCharTable {
         charTable.put(FarsiLetter.ALF_MAD, new FarsiCharacter(FarsiLetter.ALF_MAD, '\u0622', null, null, null));
         charTable.put(FarsiLetter.ALF, new FarsiCharacter(FarsiLetter.ALF, '\u0627', '\u0627', '\ufe8e', '\ufe8e'));
         charTable.put(FarsiLetter.BEE, new FarsiCharacter(FarsiLetter.BEE, '\u0628', '\ufe91', '\ufe92', '\ufe90'));
-        charTable.put(FarsiLetter.PEE, new FarsiCharacter(FarsiLetter.PEE, '\u0622', '\ufb58', '\ufb59', '\ufb57'));
+        charTable.put(FarsiLetter.PEE, new FarsiCharacter(FarsiLetter.PEE, '\u067E', '\ufb58', '\ufb59', '\ufb57'));
         charTable.put(FarsiLetter.TEE, new FarsiCharacter(FarsiLetter.TEE, '\u062A', '\ufe97', '\ufe98', '\ufe96'));
         charTable.put(FarsiLetter.THE, new FarsiCharacter(FarsiLetter.THE, '\u062B', '\ufe9b', '\ufe9c', '\ufe9a'));
         charTable.put(FarsiLetter.JEE, new FarsiCharacter(FarsiLetter.JEE, '\u062C', '\ufe9f', '\ufea0', '\ufe9e'));
